@@ -128,6 +128,7 @@ sha256sum lsa_C3_参与反思.md lsa_C3_AI日志.md lsa_C3_七维AAR.md AAR.md
 | 默认分支 | main |
 | 首次提交 | `0ce4a31e1e85` Initial commit（仅 README.md） |
 | 交付物提交 | `7fbdec6da86065a4c49e0cff5a94041d51f501e1` Add C3 high-quality group participation deliverables |
+| README 更新历史 | 以仓库 `git log` 为准 |
 | 姓名规范 | 全文姓名位置统一为 `lsa`，无汉字姓名 |
 
 *提交人：lsa ｜ 文档版本：v1.0 ｜ 数据源：CHALLENGE.md / challenge.json / challenge.yaml / rubric.json*
